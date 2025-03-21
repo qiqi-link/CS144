@@ -1,0 +1,5 @@
+{"timestamp":417928,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":419405,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required"}}
+{"timestamp":421470,"category":"nimbus_events","name":"is_ready"}
+{"timestamp":448195,"category":"nimbus_events","name":"is_ready"}
+{"timestamp":453819,"category":"addons_manager","name":"manage","extra":{"addon_type":"other","method":"uninstall","source":"gmp-plugin","addon_id":"gmp-gmpopenh264"}}
